@@ -2,10 +2,10 @@ import java.util.Scanner;
 
 public class Main {
     public static void main(String[] args){
-        //Aura
+        //AuraTest
         Scanner sc = new Scanner(System.in);
         Calculator calculator = new Calculator();
-
+        //Anderer Test
         while(true){
             calculator.calculator();
             System.out.println("Sind Sie ferig? (y/n)");

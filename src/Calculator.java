@@ -2,7 +2,7 @@ import java.util.InputMismatchException;
 import java.util.Scanner;
 
 public class Calculator {
-
+    // Test
     public void calculator() throws java.util.InputMismatchException {
         int erg = 0;
         Scanner sc = new Scanner(System.in);
